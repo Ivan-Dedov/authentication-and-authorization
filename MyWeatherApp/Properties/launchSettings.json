@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "Local": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5000",
+      "launchUrl": "http://localhost:5000/scalar",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
